@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake in accessing and modifying the content of HTML elements using JavaScript. The incorrect approach is shown in the `bug.html` file, while the correct approach is demonstrated in the `bugSolution.html` file.  The incorrect approach leads to unexpected behavior or errors.  The correct approach ensures the expected behavior.
